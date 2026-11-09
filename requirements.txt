@@ -1,0 +1,7 @@
+mcp[cli]>=2.3,<3
+anthropic>=2.6
+streamlit>=1.50
+pydantic>=2.7
+python-dotenv>=1.0
+pypdf>=4.0          # optional: PDF support in the documents server
+pytest>=8.0
